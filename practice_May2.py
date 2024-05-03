@@ -107,8 +107,8 @@
 #######################################################
 #interchange first and last elements in a list
 
-a=[10,3,67,34,90]
-
-a[0],a[len(a)-1]=a[len(a)-1],a[0]
-print(a)
+# a=[10,3,67,34,90]
+#
+# a[0],a[len(a)-1]=a[len(a)-1],a[0]
+# print(a)
 
